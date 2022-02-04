@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','library');
+define('DB_HOST','127.0.0.1:54756');
+define('DB_USER','azure');
+define('DB_PASS','6#vWHD_$');
+define('DB_NAME','localdb');
 // Establish database connection.
 try
 {
